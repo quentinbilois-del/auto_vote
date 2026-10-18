@@ -6,6 +6,7 @@ URL = "https://topmoddedservers.com/serveur/create-france/vote"
 PSEUDOS = [
     "Loloaze",
     "ZipZap38",
+    "Maxa_3005"
 ]
 
 
