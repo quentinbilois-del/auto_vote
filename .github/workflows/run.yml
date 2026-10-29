@@ -13,7 +13,7 @@ permissions:
 jobs:
   verification:
     runs-on: ubuntu-latest
-    timeout-minutes: 1
+    timeout-minutes: 5
 
     steps:
       - name: Recuperer le depot
