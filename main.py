@@ -2,7 +2,7 @@
 import requests
 from datetime import datetime
 
-pseudo = "ZipZap38"
+pseudo = "Loloaze"
 URL = "https://topmoddedservers.com/api/servers/create-france/vote"
 PAGE_URL = "https://topmoddedservers.com/serveur/create-france/vote"
 
